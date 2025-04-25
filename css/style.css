@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    color: gold;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: wavy;
+    text-shadow: 50px;
+    flex: auto;
+}
+div{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: wavy;
+    font-size: 30px;
+    flex: auto; 
+}
+img{
+    height: 400px;
+    width: auto;
+}
